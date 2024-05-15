@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "wrangler": "^3.56.0"
+  },
+  "dependencies": {
+    "letterparser": "^0.1.6"
+  }
+}
