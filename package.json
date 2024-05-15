@@ -1,4 +1,15 @@
 {
+  "name": "create-ticket-userscom",
+	"type": "module",
+	"version": "1.0.0",
+	"private": true,
+	"main": "src/index.jss",
+	"scripts": {
+		"deploy": "wrangler deploy",
+		"dev": "wrangler dev",
+		"test": "vitest",
+		"coverage": "vitest --coverage"
+	},
   "devDependencies": {
     "wrangler": "^3.56.0"
   },
